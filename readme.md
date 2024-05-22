@@ -30,14 +30,12 @@ python main.py --dataset_name BUS_A --model MDFNet --img_size 320 --save_path ./
 ## Citations
 
 ```bibtex
-@ARTICLE{10232957,
-  author={Qi, Wenbo and Wu, H. C. and Chan, S. C.},
-  journal={IEEE Transactions on Image Processing}, 
-  title={MDF-Net: A Multi-Scale Dynamic Fusion Network for Breast Tumor Segmentation of Ultrasound Images}, 
+@article{qi2023mdf,
+  title={Mdf-net: A multi-scale dynamic fusion network for breast tumor segmentation of ultrasound images},
+  author={Qi, Wenbo and Wu, HC and Chan, SC},
+  journal={IEEE Transactions on Image Processing},
   year={2023},
-  volume={32},
-  number={},
-  pages={4842-4855},
-  doi={10.1109/TIP.2023.3304518}}
+  publisher={IEEE}
+}
 
 ```
