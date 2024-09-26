@@ -1,4 +1,4 @@
-# MDF-Net: A Multi-Scale Dynamic Fusion Network for Breast Tumor Segmentation of Ultrasound Images
+# [TIP2023] MDF-Net: A Multi-Scale Dynamic Fusion Network for Breast Tumor Segmentation of Ultrasound Images
 
 This repository is the official implementation of **MDF-Net: A Multi-Scale Dynamic Fusion Network for Breast Tumor Segmentation of Ultrasound Images, TIP2023** [Paper](https://ieeexplore.ieee.org/document/10232957).
 
